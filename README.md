@@ -65,11 +65,11 @@ PS:CocoaPods教程（http://code4app.com/article/cocoapods-install-usage）
 
 `注意`：
 *   podfile如果只描述pod 'ReactiveCocoa', '~> 4.0.2-alpha-1'，会导入不成功
-![](Snip20150926_1.png)
+![](http://i11.tietuku.com/e61c718fb25eb28d.png)
 *   报错信息
-![](Snip20150926_2.png)
+![](http://i11.tietuku.com/ddc580e051925878.png)
 *   需要在podfile加上use_frameworks，重新pod install 才能导入成功。
-![](Snip20150926_3.png)
+![](http://i11.tietuku.com/74031319562be2f5.png)
 
 
 ### 6.ReactiveCocoa常见类。
